@@ -2,6 +2,14 @@
 
 A Unity-based 3D adaptation of Flappy Bird with reinforcement learning training using Unity ML-Agents. This project implements a sophisticated multi-stage training curriculum to teach an AI agent to navigate a spherical world while avoiding obstacles.
 
+## 🎬 Demonstration
+
+Watch the trained agent in action:
+
+![Trained Agent Demonstration](TrainedAgentDemonstration.gif)
+
+*The trained AI agent successfully navigating the 3D spherical world, demonstrating learned flight patterns and obstacle avoidance behaviors.*
+
 ## Reinforcement Learning Overview
 
 This project uses **Unity ML-Agents** with **PPO (Proximal Policy Optimization)** to train an AI agent to play a 3D version of Flappy Bird. The training employs a **curriculum learning approach** with three distinct stages, each building upon the previous one.
