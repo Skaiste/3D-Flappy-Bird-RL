@@ -2,7 +2,9 @@
 
 A Unity-based 3D adaptation of Flappy Bird with reinforcement learning training using Unity ML-Agents. This project implements a sophisticated multi-stage training curriculum to teach an AI agent to navigate a spherical world while avoiding obstacles.
 
-## 🎬 Demonstration
+> **Based on**: [3D-Flappy-Bird](https://github.com/Skaiste/3D-Flappy-Bird) - The original 3D Flappy Bird game implementation
+
+## Demonstration
 
 Watch the trained agent in action:
 
